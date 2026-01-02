@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\USER\OneDrive\Documents\NetBeansProjects\SplitBillModern\dist\SplitBillModern.jar</jar>
+  <outfile>SplitBill.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\USER\Downloads\icon aplikasi splitbill format .icon.ico</icon>
+  <classPath>
+    <mainClass>app.MainFrame</mainClass>
+    <cp>C:\Users\USER\OneDrive\Documents\NetBeansProjects\SplitBillModern\dist\lib\flatlaf-3.7.jar</cp>
+  </classPath>
+  <jre>
+    <path>%JAVA_HOME%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>23.0.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
